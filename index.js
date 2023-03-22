@@ -1,5 +1,5 @@
 
-const messagebird = require('messagebird').initClient('cyGrz49O9eyyCxh2mpjpxHDJk');
+const messagebird = require('messagebird').initClient('s3NOD6ikffMPAsFL4GiDbWUU0');
 const express = require("express");
 const axios = require("axios");
 
