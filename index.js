@@ -12,7 +12,7 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json())
 
-var port = 5000;
+var port = 4000;
 let chartHistory = [];
 app.post('/chat', async function(req, res) {
     console.log('receiving data ...');
