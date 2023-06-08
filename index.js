@@ -1,5 +1,5 @@
 
-const messagebird = require('messagebird').initClient('s3NOD6ikffMPAsFL4GiDbWUU0');
+const messagebird = require('messagebird').initClient('s3NOD6ikffMPAsFL4GiDbWUU0'); //messagebird api key
 const express = require("express");
 const axios = require("axios");
 
